@@ -50,3 +50,6 @@ Para mais informações sobre como personalizar o Jazzmin, visite a [documentaç
 
 ---
 Referência/AULA: PycodeBr - Youtube Live #13
+
+![image](https://github.com/user-attachments/assets/a942fd1b-dc2a-429d-a9f8-99ca26da2870)
+
